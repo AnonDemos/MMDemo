@@ -6,7 +6,7 @@ identification systems. It is also notable that the vocie of the random baseline
 approach is not linked to a real human.
 
 ## Samples from the LibriTTS Test Set
-
+<html>
     <table style='width: 100%;'>
         <tr>
             <td>Human Speech</td>
@@ -58,5 +58,5 @@ approach is not linked to a real human.
             <td><audio controls="" ><source src="resources/anongan/4.wav" type="audio/wav"></audio></td></tr><tr>
         </tr>
     </table>
-
+</html>
 

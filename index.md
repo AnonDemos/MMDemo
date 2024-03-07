@@ -74,38 +74,34 @@ For the Vietnamese test, we provided instructions in the participants' native la
 
 ## Vietnamese
 
-<blockquote>Mẫu giọng nói nhân tạo dưới đây giống tiếng Việt của người bản ngữ đến mức nào? Vui lòng đánh giá theo thang điểm từ "rất không giống" (như người nước ngoài bắt chước tiếng Việt mà không thông qua đào tạo/rèn luyện) đến "rất giống" (như người bản ngữ).
-
-Vui lòng tập trung vào cách phát âm của từ, nhịp điệu lời nói và ngữ điệu. Đánh giá dựa trên cảm giác chủ quan của bạn và bỏ qua các khía cạnh về chất lượng âm thanh và độ giống người thật của giọng nói.
-
-Rất không giống / Không giống / Tạm giống / Giống / Rất giống</blockquote>
+<blockquote>
+<p>Mẫu giọng nói nhân tạo dưới đây giống tiếng Việt của người bản ngữ đến mức nào? Vui lòng đánh giá theo thang điểm từ "rất không giống" (như người nước ngoài bắt chước tiếng Việt mà không thông qua đào tạo/rèn luyện) đến "rất giống" (như người bản ngữ).</p>
+<p>Vui lòng tập trung vào cách phát âm của từ, nhịp điệu lời nói và ngữ điệu. Đánh giá dựa trên cảm giác chủ quan của bạn và bỏ qua các khía cạnh về chất lượng âm thanh và độ giống người thật của giọng nói.</p>
+<p>Rất không giống / Không giống / Tạm giống / Giống / Rất giống</p>
+</blockquote>
 
 ## Breton
 
 Since we expect native speakers of Breton to speak English, we provided the instructions in English.
 
-<blockquote>How similar does the following artificially generated speech sample sound to someone speaking Breton as a native speaker? Please rate it on a scale from "bad similarity" (foreign speaker imitating Breton without any training) to "excellent similarity" (native speaker of Breton).
-
-Please focus on the pronunciation of words, speech rhythm, and intonation. Base your rating on your subjective feeling, and ignore aspects relating to the audio fidelity or human-likeness of the audio quality.
-
-Very Poor Similarity / Poor Similarity / Fair Similarity / Good Similarity / Excellent Similarity</blockquote>
+<blockquote>
+<p>How similar does the following artificially generated speech sample sound to someone speaking Breton as a native speaker? Please rate it on a scale from "bad similarity" (foreign speaker imitating Breton without any training) to "excellent similarity" (native speaker of Breton).</p>
+<p>Please focus on the pronunciation of words, speech rhythm, and intonation. Base your rating on your subjective feeling, and ignore aspects relating to the audio fidelity or human-likeness of the audio quality.</p>
+<p>Very Poor Similarity / Poor Similarity / Fair Similarity / Good Similarity / Excellent Similarity
+</p></blockquote>
 
 ## Welsh
 
 Since we expect native speakers of Welsh to speak English, we provided the instructions in English.
 
-<blockquote>How similar does the following artificially generated speech sample sound to someone speaking Welsh as a native speaker? Please rate it on a scale from "bad similarity" (foreign speaker imitating Welsh without any training) to "excellent similarity" (native speaker of Welsh).
-
-Please focus on the pronunciation of words, speech rhythm, and intonation. Base your rating on your subjective feeling, and ignore aspects relating to the audio fidelity or human-likeness of the audio quality.
-
-Very Poor Similarity / Poor Similarity / Fair Similarity / Good Similarity / Excellent Similarity</blockquote>
+<blockquote><p>How similar does the following artificially generated speech sample sound to someone speaking Welsh as a native speaker? Please rate it on a scale from "bad similarity" (foreign speaker imitating Welsh without any training) to "excellent similarity" (native speaker of Welsh).</p>
+<p>Please focus on the pronunciation of words, speech rhythm, and intonation. Base your rating on your subjective feeling, and ignore aspects relating to the audio fidelity or human-likeness of the audio quality.</p>
+<p>Very Poor Similarity / Poor Similarity / Fair Similarity / Good Similarity / Excellent Similarity</p></blockquote>
 
 ## Aymara
 
 Since there is no widely used writing system in Aymara, and we expect native Aymara speakers to also speak Spanish, we provided the instructions in Spanish.
 
-<blockquote>¿En qué medida se parece la siguiente muestra de habla generada artificialmente a alguien que habla aymara como nativo? Por favor, puntúela en una escala que va desde "Muy escasa similitud" (hablante extranjero que imita el aymara sin ninguna formación) a "Similitud excelente" (hablante nativo de aymara).
-
-Concéntrese en la pronunciación de las palabras, el ritmo del habla y la entonación. Base tu valoración en sus sensaciones subjetivas e ignore los aspectos relacionados con la fidelidad del audio o su similitud con una voz humana.
-
-Muy escasa similitud / Similitud escasa / Similitud regular / Similitud buena / Similitud excelente</blockquote>
+<blockquote><p>¿En qué medida se parece la siguiente muestra de habla generada artificialmente a alguien que habla aymara como nativo? Por favor, puntúela en una escala que va desde "Muy escasa similitud" (hablante extranjero que imita el aymara sin ninguna formación) a "Similitud excelente" (hablante nativo de aymara).</p>
+<p>Concéntrese en la pronunciación de las palabras, el ritmo del habla y la entonación. Base tu valoración en sus sensaciones subjetivas e ignore los aspectos relacionados con la fidelidad del audio o su similitud con una voz humana.</p>
+<p>Muy escasa similitud / Similitud escasa / Similitud regular / Similitud buena / Similitud excelente</p></blockquote>

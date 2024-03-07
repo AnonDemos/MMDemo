@@ -3,7 +3,8 @@ margin-right: auto; width: 0%;" />
 
 This wesbsite holds a handful of exemplary samples to give reviewers an impression of our system during the anonymous review process. With the open-source release of all code and models, we will also include an interactive demo, that will replace this temporary static demo. Please do not visit the repository this demo page is hosted from, as this could reveal author identities.
 
-## Selection of High-Resource Languages (abundant data available)
+## Selection of High-Resource Languages 
+abundant data is available
 <html>
     <table style='width: 100%;'>
         <tr>
@@ -29,7 +30,8 @@ This wesbsite holds a handful of exemplary samples to give reviewers an impressi
     </table>
 </html>
 
-## Selection of Mid-Resource Languages (few data with mostly low quality available)
+## Selection of Mid-Resource Languages 
+few data with mostly low quality is available
 <html>
     <table style='width: 100%;'>
         <tr>
@@ -46,7 +48,8 @@ This wesbsite holds a handful of exemplary samples to give reviewers an impressi
 </html>
 
 
-## Selection of Low-Resource Languages (no data available, zero-shot inference)
+## Selection of Low-Resource Languages 
+no data is available, zero-shot inference
 <html>
     <table style='width: 100%;'>
         <tr>

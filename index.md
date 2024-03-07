@@ -41,13 +41,13 @@ This wesbsite holds a handful of exemplary samples to give reviewers an impressi
     <table style='width: 100%;'>
         <tr>
 <td>Voice 1 - Breton</td>
-            <td><audio controls="" ><source src="resources/unsup/1.wav" type="audio/wav"></audio></td></tr><tr>
+            <td><audio controls="" ><source src="resources/sup/13.wav" type="audio/wav"></audio></td></tr><tr>
             <td>Voice 2 - Breton</td>
-            <td><audio controls="" ><source src="resources/unsup/2.wav" type="audio/wav"></audio></td></tr><tr>
+            <td><audio controls="" ><source src="resources/sup/14.wav" type="audio/wav"></audio></td></tr><tr>
 <td>Voice 1 - Aymara</td>
-            <td><audio controls="" ><source src="resources/unsup/3.wav" type="audio/wav"></audio></td></tr><tr>
+            <td><audio controls="" ><source src="resources/sup/15.wav" type="audio/wav"></audio></td></tr><tr>
             <td>Voice 2 - Aymara</td>
-            <td><audio controls="" ><source src="resources/unsup/4.wav" type="audio/wav"></audio></td></tr><tr>
+            <td><audio controls="" ><source src="resources/sup/16.wav" type="audio/wav"></audio></td></tr><tr>
         </tr>
     </table>
 

@@ -70,9 +70,11 @@ no data is available, zero-shot inference
 
 # Listening Test Instructions
 
-For the Vietnamese test, we provided instructions in the participants' native language.
+After a welcoming page and a page with a test audio sample for headphone calibration, the participants of the listening test got the following instructions on how to rate the audio samples.
 
 ## Vietnamese
+
+For the Vietnamese test, we provided instructions in the participants' native language.
 
 <blockquote>
 <p>Mẫu giọng nói nhân tạo dưới đây giống tiếng Việt của người bản ngữ đến mức nào? Vui lòng đánh giá theo thang điểm từ "rất không giống" (như người nước ngoài bắt chước tiếng Việt mà không thông qua đào tạo/rèn luyện) đến "rất giống" (như người bản ngữ).</p>

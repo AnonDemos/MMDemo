@@ -6,7 +6,7 @@ This wesbsite holds a handful of exemplary samples to give reviewers an impressi
 ## Selection of High-Resource Languages 
 abundant data is available
 <html>
-    <table style='width: 100%;'>
+    <table style='width: 100%;align="left";'>
         <tr>
             <td>Voice 1 - English</td>
             <td><audio controls="" ><source src="resources/sup/1.wav" type="audio/wav"></audio></td>
@@ -33,7 +33,7 @@ abundant data is available
 ## Selection of Mid-Resource Languages 
 few data with mostly low quality is available
 <html>
-    <table style='width: 100%;'>
+    <table style='width: 100%;align="left";'>
         <tr>
             <td>Voice 1 - Vietnamese</td>
             <td><audio controls="" ><source src="resources/sup/9.wav" type="audio/wav"></audio></td>
@@ -51,7 +51,7 @@ few data with mostly low quality is available
 ## Selection of Low-Resource Languages 
 no data is available, zero-shot inference
 <html>
-    <table style='width: 100%;'>
+    <table style='width: 100%;align="left";'>
         <tr>
             <td>Voice 1 - Breton</td>
             <td><audio controls="" ><source src="resources/sup/13.wav" type="audio/wav"></audio></td>
